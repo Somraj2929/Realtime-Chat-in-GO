@@ -1,0 +1,19 @@
+.header {
+  background-color: #080808;
+  color: #efaa32;
+  max-width: 100%;
+  padding: 50px;
+  h2 {
+    margin: 0;
+    padding: 0;
+    font-size: 4em;
+    text-align: center;
+  }
+  .image {
+    display: flex;
+    justify-content: center;
+  }
+  img {
+    height: 100px;
+  }
+}
