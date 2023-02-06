@@ -6,9 +6,10 @@
   padding: 10px 20px;
   border-radius: 5px;
   clear: both;
-
+  //position: absolute;
+  overflow-y: hidden;
   &.me {
-    color: rgb(35, 21, 4);
+    color: rgb(215, 135, 37);
     float: right;
   }
 }
